@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#result {
+    font-size: 100px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: yellow;
+    color: black;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+button:active {
+    background-color: aqua;
+}
