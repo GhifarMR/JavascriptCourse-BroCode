@@ -17,7 +17,7 @@ To open a specific project inside this repository:
 ### ✅ Example
 If your folder name is `Counter-Program`, then access it using:
 
-https://ghifarmr.github.io/Counter-Program
+https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program
 
 ### 🔁 URL Format
 https://ghifarmr.github.io/LearnJavascript-BroCode/<folder-name>
@@ -29,7 +29,7 @@ Replace `<folder-name>` with the folder you want to open.
 
 
 # Direct Link
-1. Counter-Program https://ghifarmr.github.io/Counter-Program/Counter-Program
-2. Random-Number https://ghifarmr.github.io/Counter-Program/Random-Program
-3. Age-Verification https://ghifarmr.github.io/Counter-Program/Age-Verification
-4. Checked-Property https://ghifarmr.github.io/Counter-Program/Checked-Property
+1. Counter-Program https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program
+2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Program
+3. Age-Verification https://ghifarmr.github.io/LearnJavascript-BroCode/Age-Verification
+4. Checked-Property https://ghifarmr.github.io/LearnJavascript-BroCode/Checked-Property
