@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  font-size: 40px;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  transform: scale(2);
+  margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
+button:active {
+    background: yellow;
+    color: black;
+}
