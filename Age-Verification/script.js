@@ -4,6 +4,7 @@ const result = document.getElementById("result");
 
 submit.onclick = function () {
   age = input.value;
+  age = Number(age);
 
   if (age >= 18) {
     result.innerHTML = "You are old enough to enter this site";
