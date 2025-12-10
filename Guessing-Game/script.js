@@ -1,5 +1,5 @@
 const minNum = 1;
-const maxNum = 2;
+const maxNum = 100;
 const answer = Math.floor(Math.random() * maxNum) + minNum;
 
 let attempts;
