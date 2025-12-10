@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#inputNumber {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#submitBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+#submitBtn:active {
+    background-color: yellow;
+    color: black;
+}
+
+#result {
+    margin-top: 30px;
+    font-size: 20px;
+}
