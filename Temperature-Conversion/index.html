@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <form>
+        <h1>Temperature Conversion</h1>
+
+        <input id="textBox" type="number"> <br>
+
+        <input id="toFahrenheit" type="radio" name="unit">
+        <label for="toFahrenheit">Celsius → Fahrenheit</label> <br>
+
+        <input id="toCelsius" type="radio" name="unit">
+        <label for="toCelsius">Fahrenheit → Celsius</label> <br>
+
+        <button type="button" onclick="convert()">Input</button>
+
+        <p id="result"></p>
+    </form>
+    
+    <script src="script.js"></script>
+</body>
+</html>
