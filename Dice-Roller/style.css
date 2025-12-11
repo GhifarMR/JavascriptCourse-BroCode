@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+#diceResult {
+    margin-top: 30px;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+input {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px 0px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: yellow;
+    color: black;
+}
+
+label {
+    font-size: 20px;
+}
+
+#sumResult {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
