@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <h1>Generate Password</h1>
+
+    <label for="inputLength">Input Length</label>
+    <input id="inputLength" type="number" value="12"> <br>
+
+    <input id="setLower" type="checkbox" name="set" checked>
+    <label for="setLower">Lowercase</label>
+
+    <input id="setUpper" type="checkbox" name="set" checked>
+    <label for="setUpper">Uppercase</label>
+
+    <input id="setNumber" type="checkbox" name="set" checked>
+    <label for="setNumber">Number</label>
+
+    <input id="setSymbol" type="checkbox" name="set" checked>
+    <label for="setSymbol">Symbol</label> <br>
+
+    <button onclick="getPassword()">Generate</button>
+
+    <p id="result" onclick="copyResult()"></p>
+    
+    
+    <script src="script.js"></script>
+</body>
+</html>
