@@ -36,3 +36,4 @@ Replace `<folder-name>` with the folder you want to open.
 5. Guessing-Game https://ghifarmr.github.io/LearnJavascript-BroCode/Guessing-Game
 6. Odd-Even https://ghifarmr.github.io/LearnJavascript-BroCode/Odd-Even
 7. Temperature-Conversion https://ghifarmr.github.io/LearnJavascript-BroCode/Temperature-Conversion
+8. Dice-Roller https://ghifarmr.github.io/LearnJavascript-BroCode/Dice-Roller
