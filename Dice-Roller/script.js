@@ -1,7 +1,7 @@
 function rollDice() {
   const numOfDice = document.getElementById("numOfDice").value;
 
-  if (numOfDice < -1) {
+  if (numOfDice < 0) {
     alert("Enter valid number");
 
   } else if (numOfDice > 10) {
