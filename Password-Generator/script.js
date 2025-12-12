@@ -35,18 +35,10 @@ function generatePassword(
 
 function getPassword() {
   const passwordLength = Number(document.getElementById("inputLength").value);
-  const includeLowerCase = document.getElementById("setLower").checked
-    ? true
-    : false;
-  const includeUpperCase = document.getElementById("setUpper").checked
-    ? true
-    : false;
-  const includeNumber = document.getElementById("setNumber").checked
-    ? true
-    : false;
-  const includeSymbol = document.getElementById("setSymbol").checked
-    ? true
-    : false;
+  const includeLowerCase = document.getElementById("setLower").checked ? true : false;
+  const includeUpperCase = document.getElementById("setUpper").checked ? true : false;
+  const includeNumber = document.getElementById("setNumber").checked ? true : false;
+  const includeSymbol = document.getElementById("setSymbol").checked ? true : false;
 
   const password = generatePassword(
     passwordLength,

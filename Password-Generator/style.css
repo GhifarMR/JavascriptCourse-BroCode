@@ -5,3 +5,36 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin: 20px 0px;
+}
+
+button:active {
+    background-color: yellow;
+    color: black;
+}
+
+label {
+    font-size: 20px;
+}
+
+input[type="checkbox"] {
+  transform: scale(1);
+}
+
+input[type="number"] {
+    margin-bottom: 20px;
+    padding: 8px 10px;
+    border-radius: 10px;
+}
+
+#result {
+    overflow-wrap: anywhere;
+    margin: 0px 30px;
+}
