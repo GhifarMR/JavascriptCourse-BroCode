@@ -30,7 +30,7 @@ Replace `<folder-name>` with the folder you want to open.
 
 # Direct Link
 1. Counter-Program https://ghifarmr.github.io/LearnJavascript-BroCode/Counter-Program/index.html
-2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Program/index.html
+2. Random-Number https://ghifarmr.github.io/LearnJavascript-BroCode/Random-Number/index.html
 3. Age-Verification https://ghifarmr.github.io/LearnJavascript-BroCode/Age-Verification/index.html
 4. Checked-Property https://ghifarmr.github.io/LearnJavascript-BroCode/Checked-Property/index.html
 5. Guessing-Game https://ghifarmr.github.io/LearnJavascript-BroCode/Guessing-Game/index.html
