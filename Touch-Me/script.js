@@ -1,5 +1,5 @@
 const myBox = document.getElementById("myBox");
-const mybutton = document.querySelector("myButton");
+const mybutton = document.getElementById("myButton");
 let lastNum = 0;
 
 myButton.addEventListener("click", (event) => {
